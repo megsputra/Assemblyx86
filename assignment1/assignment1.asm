@@ -10,7 +10,7 @@ include Irvine32.inc
 
 .data
 
-first_text BYTE "This is Mega Putra's first CIS21JA program", 0ah, 0dh, 0
+first_text BYTE "This is Mega Putra's first Assembly program", 0ah, 0dh, 0
 
 .code
 main proc
